@@ -1,2 +1,20 @@
+# Site settings
+
+title: Code First Girls Beginners' Course
+email: diana@diana.click
 name: Learn to Code
-highlighter: pygments
+description: Learn Web Development with Code First Girls
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://cfg.diana.click" # the base hostname & protocol for your site
+timezone: "Europe/London"
+
+# Social media
+
+twitter_username: duhrtyd
+github_username: parisandmilo
+facebook_username: dklhy
+linkedin_url: https://uk.linkedin.com/in/dianaklee
+
+# Build settings
+
+highlighter: rougify
