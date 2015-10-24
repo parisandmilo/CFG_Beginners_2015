@@ -5,7 +5,7 @@ email: diana@diana.click
 name: Learn to Code
 description: Learn Web Development with Code First Girls
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://cfg.diana.click" # the base hostname & protocol for your site
+url: "http://parisandmilo.github.io" # the base hostname & protocol for your site
 timezone: "Europe/London"
 
 # Social media
