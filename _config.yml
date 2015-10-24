@@ -4,8 +4,8 @@ title: Code First Girls Beginners' Course
 email: diana@diana.click
 name: Learn to Code
 description: Learn Web Development with Code First Girls
-baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://parisandmilo.github.io" # the base hostname & protocol for your site
+baseurl: "/CFG_Beginners_2015" # the subpath of your site, e.g. /blog/
+url: "http://diana.click" # the base hostname & protocol for your site
 timezone: "Europe/London"
 
 # Social media
